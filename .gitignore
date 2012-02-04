@@ -4,3 +4,4 @@ seqrom.txt
 beqrom.txt
 *.sym
 *.lc
+*.tar.gz
