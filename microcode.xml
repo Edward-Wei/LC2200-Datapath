@@ -165,7 +165,7 @@
 		<Signal name = "DrREG"/>
 		<Goto state="FETCH0"/>
 	</State>
-	<State name="HALT">
-		<Goto state="HALT"/>
+	<State name="HALT0">
+		<Goto state="HALT0"/>
 	</State>
 </Microcode>
