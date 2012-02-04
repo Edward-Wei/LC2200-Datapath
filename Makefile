@@ -3,3 +3,6 @@ dp-design: logisim-generic-2.7.1.jar datapath.circ
 
 translate: MICOCompiler.jar microcode.xml
 	java -jar MICOCompiler.jar -in microcode.xml
+
+assemble: test.s lcas.pl
+	./lcas.pl test.s
