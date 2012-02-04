@@ -4,6 +4,8 @@ resources/*
 Standard Microcontroller/*
 instructions.html
 logisim-generic-2.7.1.jar
-*.txt
+mainrom.txt
+seqrom.txt
+beqrom.txt
 *.sym
 *.lc
