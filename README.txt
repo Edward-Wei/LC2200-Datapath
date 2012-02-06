@@ -8,8 +8,8 @@ if you're lost, it's not just you. I'm writing this README as kind of an
 additional documentation to get it working. And, it might be cool to look at a
 few years down the road when I'm making the big bucks.
 
-Finally, your mileage may vary with this project. I can't image you'd make much
-progress unless you were in the course.
+Finally, your mileage may vary with this project. I can't imagine you'd make
+much progress unless you were in the course.
 
 Requirements
 I've tried to bundle as much as I bear to in this repo. It sucks for source
