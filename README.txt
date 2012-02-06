@@ -2,10 +2,10 @@ LC2200 Datapath and Microcontroller Design Project
 by Tim Martin
 
 Foreword
-First and foremost, this project stinks of incoherence. It's been passed down
-from year to year, remixed, repackaged, refoobared. Much of it doesn't add up.
-So if you're lost, it's not just you. I'm writing this README as kind of an
-additional documentation to get it usable. And, it might be cool to look at a
+First and foremost, this project is a little rough. It's been passed down
+from year to year, repackaged and not always clear. It doesn't always add up so
+if you're lost, it's not just you. I'm writing this README as kind of an
+additional documentation to get it working. And, it might be cool to look at a
 few years down the road when I'm making the big bucks.
 
 Finally, your mileage may vary with this project. I can't image you'd make much
